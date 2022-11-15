@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Space-X-API/static/css/main.c7ec3132.css",
+    "main.js": "/Space-X-API/static/js/main.579a7a5a.js",
+    "index.html": "/Space-X-API/index.html",
+    "main.c7ec3132.css.map": "/Space-X-API/static/css/main.c7ec3132.css.map",
+    "main.579a7a5a.js.map": "/Space-X-API/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
