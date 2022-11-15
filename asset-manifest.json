@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Space-X-API/static/css/main.cdb66aa3.css",
-    "main.js": "/Space-X-API/static/js/main.89601834.js",
+    "main.css": "/Space-X-API/static/css/main.00ccf339.css",
+    "main.js": "/Space-X-API/static/js/main.6ffe4d5f.js",
     "index.html": "/Space-X-API/index.html",
-    "main.cdb66aa3.css.map": "/Space-X-API/static/css/main.cdb66aa3.css.map",
-    "main.89601834.js.map": "/Space-X-API/static/js/main.89601834.js.map"
+    "main.00ccf339.css.map": "/Space-X-API/static/css/main.00ccf339.css.map",
+    "main.6ffe4d5f.js.map": "/Space-X-API/static/js/main.6ffe4d5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdb66aa3.css",
-    "static/js/main.89601834.js"
+    "static/css/main.00ccf339.css",
+    "static/js/main.6ffe4d5f.js"
   ]
 }
